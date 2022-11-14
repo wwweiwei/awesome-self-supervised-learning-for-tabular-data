@@ -10,6 +10,7 @@ This repository contains the frontier research on self-supervised learning for t
     * [Supplementary](https://openreview.net/attachment?id=vrhNQ7aYSdr&name=supplementary_material)
     * [Code](https://github.com/AstraZeneca/SubTab)
 * [SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (ICLR‘22 Spotlight)](https://arxiv.org/pdf/2106.15147.pdf)
+* [STab: Self-supervised Learning for Tabular Data (NurIPS‘22 Workshop on Table Representation Learning)](https://openreview.net/pdf?id=EfR55bFcrcI)
 #### Use correlation to capture relations between features
 * [Self-Supervision Enhanced Feature Selection with Correlated Gates (ICLR'22)](https://openreview.net/pdf?id=oDFvtxzPOx)
     * [Code](https://github.com/chl8856/SEFS)
