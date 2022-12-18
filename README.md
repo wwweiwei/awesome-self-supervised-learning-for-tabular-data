@@ -19,6 +19,11 @@ This repository contains the frontier research on self-supervised learning for t
     * [Code](https://github.com/chl8856/SEFS)
 * [Local Contrastive Feature Learning for Tabular Data (CIKM'22)](https://dl.acm.org/doi/pdf/10.1145/3511808.3557630)
 
+#### Use pretrained language model to learn better representation
+* [LIFT: Language-Interfaced Fine-Tuning for Non-language Machine Learning Tasks (NeurIPS'22)](https://arxiv.org/pdf/2206.06565.pdf)
+    * [Code](https://github.com/UW-Madison-Lee-Lab/LanguageInterfacedFineTuning)
+* [Pretrained Transformers As Universal Computation Engines](https://arxiv.org/pdf/2103.05247.pdf)
+    * [Code](https://github.com/kzl/universal-computation)
 
 ## Tutorials
 * [Self-Supervised Learning: Self-Prediction and Contrastive Learning (NeurIPS'21)](https://neurips.cc/virtual/2021/tutorial/21895)
