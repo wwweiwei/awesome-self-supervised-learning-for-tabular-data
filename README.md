@@ -13,6 +13,8 @@ This repository contains the frontier research on self-supervised learning for t
 * [STab: Self-supervised Learning for Tabular Data (NurIPS‘22 Workshop on Table Representation Learning)](https://openreview.net/pdf?id=EfR55bFcrcI)
 * [SAINT: Improved Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training (NurIPS‘22 Workshop on Table Representation Learning)](https://arxiv.org/pdf/2106.01342.pdf)
     * [Code](https://github.com/somepago/saint)
+* [TabNet: Attentive Interpretable Tabular Learning (AAAI'21)](https://arxiv.org/abs/1908.07442)
+    * [Code](https://github.com/dreamquark-ai/tabnet)
 
 #### Use correlation to capture relations between features
 * [Self-Supervision Enhanced Feature Selection with Correlated Gates (ICLR'22)](https://openreview.net/pdf?id=oDFvtxzPOx)
@@ -20,6 +22,7 @@ This repository contains the frontier research on self-supervised learning for t
 * [Local Contrastive Feature Learning for Tabular Data (CIKM'22)](https://dl.acm.org/doi/pdf/10.1145/3511808.3557630)
 
 #### Use pretrained language model to learn better representation
+* [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data (ACL'20)](https://arxiv.org/abs/2005.08314)
 * [LIFT: Language-Interfaced Fine-Tuning for Non-language Machine Learning Tasks (NeurIPS'22)](https://arxiv.org/pdf/2206.06565.pdf)
     * [Code](https://github.com/UW-Madison-Lee-Lab/LanguageInterfacedFineTuning)
 * [Pretrained Transformers As Universal Computation Engines](https://arxiv.org/pdf/2103.05247.pdf)
