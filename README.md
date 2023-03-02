@@ -1,5 +1,10 @@
 # Awesome Self-supervised Learning for Tabular Data
-This repository contains the frontier research on self-supervised learning for tabular data which is a popular topic recently.
+![Version](https://img.shields.io/badge/Version-1.0-lightgrey.svg) 
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.02-lightblue.svg)
+![Topic](https://img.shields.io/badge/Topic-SSL%20for%20Tabular%20Data-pink?logo=github)
+
+This repository contains the frontier research on **self-supervised learning** for tabular data which is a popular topic recently.<br>
+This list is maintained by [Wei-Wei Du](https://wwweiwei.github.io/). (Actively keep updating)
 
 ## Papers
 * [VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain (NeurIPS'20)](https://proceedings.neurips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Paper.pdf)
