@@ -38,3 +38,6 @@ This list is maintained by [Wei-Wei Du](https://wwweiwei.github.io/). (Actively 
 
 ## Tutorials
 * [Self-Supervised Learning: Self-Prediction and Contrastive Learning (NeurIPS'21)](https://neurips.cc/virtual/2021/tutorial/21895)
+
+## Survey
+* [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125)
