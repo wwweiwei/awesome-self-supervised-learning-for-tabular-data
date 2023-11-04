@@ -1,6 +1,6 @@
 # Awesome Self-supervised Learning for Tabular Data
 ![Version](https://img.shields.io/badge/Version-1.0-lightgrey.svg) 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.02-lightblue.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.11-lightblue.svg)
 ![Topic](https://img.shields.io/badge/Topic-SSL%20for%20Tabular%20Data-pink?logo=github)
 
 This repository contains the frontier research on **self-supervised learning** for tabular data which is a popular topic recently.<br>
@@ -20,9 +20,17 @@ This list is maintained by [Wei-Wei Du](https://wwweiwei.github.io/). (Actively 
     * [Code](https://github.com/somepago/saint)
 * [TabNet: Attentive Interpretable Tabular Learning (AAAI'21)](https://arxiv.org/abs/1908.07442)
     * [Code](https://github.com/dreamquark-ai/tabnet)
+* [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://arxiv.org/abs/2012.06678)
 * [TransTab: Learning Transferable Tabular Transformers Across Tables (NeurIPS'22)](https://arxiv.org/abs/2205.09328)
     * [Code](https://github.com/RyanWangZf/transtab)
     * [Blog](https://realsunlab.medium.com/transtab-learning-transferable-tabular-transformers-across-tables-1e34eec161b8)
+* [Self Supervised Pre-training for Large Scale Tabular Data (NeurIPS'22 TRL Workshop)](https://table-representation-learning.github.io/assets/papers/self_supervised_pre_training_f.pdf)
+   * [Blog](https://www.amazon.science/publications/self-supervised-pre-training-for-large-scale-tabular-data)
+* [XTab: Cross-table Pretraining for Tabular Transformers (ICML'23)](https://arxiv.org/abs/2305.06090)
+* [Revisiting Self-Training with Regularized Pseudo-Labeling for Tabular Data](https://arxiv.org/abs/2302.14013)
+* [DoRA: Domain-Based Self-Supervised Learning Framework for Low-Resource Real Estate Appraisal (CIKM'23)](https://arxiv.org/abs/2309.00855)
+   * [Code](https://github.com/wwweiwei/DoRA)
+
 
 #### Use correlation to capture relations between features
 * [Self-Supervision Enhanced Feature Selection with Correlated Gates (ICLR'22)](https://openreview.net/pdf?id=oDFvtxzPOx)
@@ -39,5 +47,6 @@ This list is maintained by [Wei-Wei Du](https://wwweiwei.github.io/). (Actively 
 ## Tutorials
 * [Self-Supervised Learning: Self-Prediction and Contrastive Learning (NeurIPS'21)](https://neurips.cc/virtual/2021/tutorial/21895)
 
-## Survey
+## Related Survey
 * [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125)
+* [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/abs/2110.01889)
