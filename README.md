@@ -50,3 +50,9 @@ This list is maintained by [Wei-Wei Du](https://wwweiwei.github.io/). (Actively 
 ## Related Survey
 * [Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects](https://arxiv.org/abs/2306.10125)
 * [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/abs/2110.01889)
+
+## Tools & Libraries
+
+#### Python
+* [Pytorch Frame: A modular deep learning framework for building neural network models on heterogeneous tabular data](https://github.com/pyg-team/pytorch-frame#implemented-deep-tabular-models)
+* [PyTorch Tabular: A Framework for Deep Learning with Tabular Data](https://github.com/manujosephv/pytorch_tabular)
