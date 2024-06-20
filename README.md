@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning for Non-Sequential Tabular Data (SSL4NSTD)
 ![Version](https://img.shields.io/badge/Version-1.0-lightgrey.svg) 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.02-lightblue.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.06-lightblue.svg)
 ![Topic](https://img.shields.io/badge/Topic-SSL4NSTD-pink?logo=github)
 
 This repository contains the frontier research on **self-supervised learning** for tabular data which has been a popular topic recently.<br>
@@ -28,6 +28,8 @@ If you have come across relevant resources or found some errors in this reposito
 ### Predictive Learning
 * VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain (NeurIPS'20) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Paper.pdf) [[Supplementary]](https://proceedings.neurips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Supplemental.pdf) [[Code]](https://github.com/jsyoon0823/VIME)
 * TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data (ACL'20) [[Paper]](https://arxiv.org/abs/2005.08314)
+* 
+* TABBIE: Pretrained Representations of Tabular Data (NAACL'21) [[Paper]](https://arxiv.org/abs/2105.02584)) [[Code]](https://github.com/SFIG611/tabbie)
 * CORE: Self- and Semi-supervised Tabular Learning with COnditional REgularizations (NeurIPS'21) [[Paper]](https://sslneurips21.github.io/files/CameraReady/CORE_workshop.pdf)
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Paper]](https://arxiv.org/abs/2012.06678)
 * TabNet: Attentive Interpretable Tabular Learning (AAAI'21) [[Paper]](https://arxiv.org/abs/1908.07442) [Code](https://github.com/dreamquark-ai/tabnet)
@@ -44,6 +46,7 @@ If you have come across relevant resources or found some errors in this reposito
 * Self-supervised Representation Learning from Random Data Projectors (NeurIPS'23 TRL Workshop) [[Paper]](https://arxiv.org/pdf/2310.07756.pdf) [[Code]](https://github.com/layer6ai-labs/lfr)
 * SwitchTab: Switched Autoencoders Are Effective Tabular Learners (AAAI'24) [[Paper]](https://arxiv.org/pdf/2401.02013.pdf)
 * Making Pre-trained Language Models Great on Tabular Prediction (ICLR'24) [[Paper]](https://openreview.net/pdf?id=anzIzGZuLi)
+* Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains (ICLR'24) [[Paper]](https://arxiv.org/abs/2405.07414) [[Code]](https://github.com/kyungeun-lee/tabularbinning)
 
 ### Contrastive Learning
 * SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (ICLR'22) [[Paper]](https://arxiv.org/pdf/2106.15147.pdf) [[Code]](https://github.com/clabrugere/pytorch-scarf)
