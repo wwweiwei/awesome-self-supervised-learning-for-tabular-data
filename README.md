@@ -46,7 +46,7 @@ If you have come across relevant resources or found some errors in this reposito
 * Self-supervised Representation Learning from Random Data Projectors (NeurIPS'23 TRL Workshop) [[Paper]](https://arxiv.org/pdf/2310.07756.pdf) [[Code]](https://github.com/layer6ai-labs/lfr)
 * SwitchTab: Switched Autoencoders Are Effective Tabular Learners (AAAI'24) [[Paper]](https://arxiv.org/pdf/2401.02013.pdf)
 * Making Pre-trained Language Models Great on Tabular Prediction (ICLR'24) [[Paper]](https://openreview.net/pdf?id=anzIzGZuLi)
-* Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains (ICLR'24) [[Paper]](https://arxiv.org/abs/2405.07414) [[Code]](https://github.com/kyungeun-lee/tabularbinning)
+* Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains (ICML'24) [[Paper]](https://arxiv.org/abs/2405.07414) [[Code]](https://github.com/kyungeun-lee/tabularbinning)
 
 ### Contrastive Learning
 * SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (ICLR'22) [[Paper]](https://arxiv.org/pdf/2106.15147.pdf) [[Code]](https://github.com/clabrugere/pytorch-scarf)
