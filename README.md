@@ -8,7 +8,7 @@ This list is maintained by [Wei-Wei Du](https://wwweiwei.github.io/) and [Wei-Ya
 If you have come across relevant resources or found some errors in this repository, feel free to open an issue or submit a PR.
 
 ## Survey Paper
-[A Survey on Self-Supervised Learning for Non-Sequential Tabular Data](https://arxiv.org/abs/2402.01204)
+[A Survey on Self-Supervised Learning for Non-Sequential Tabular Data (ACML-24 Journal Track)](https://arxiv.org/abs/2402.01204)
 ### Citation
 ```bibtex
 @article{DBLP:journals/corr/abs-2402-01204,
@@ -38,7 +38,7 @@ If you have come across relevant resources or found some errors in this reposito
 * LIFT: Language-Interfaced Fine-Tuning for Non-language Machine Learning Tasks (NeurIPS'22) [[Paper]](https://arxiv.org/pdf/2206.06565.pdf) [[Code]](https://github.com/UW-Madison-Lee-Lab/LanguageInterfacedFineTuning)
 * Self Supervised Pre-training for Large Scale Tabular Data (NeurIPS'22 TRL Workshop) [[Paper]](https://table-representation-learning.github.io/assets/papers/self_supervised_pre_training_f.pdf) [[Blog]](https://www.amazon.science/publications/self-supervised-pre-training-for-large-scale-tabular-data)
 * Local Contrastive Feature Learning for Tabular Data (CIKM'22) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557630)
-* Revisiting Self-Training with Regularized Pseudo-Labeling for Tabular Data (preprint-23) [[Paper]](https://arxiv.org/abs/2302.14013)
+* Revisiting Self-Training with Regularized Pseudo-Labeling for Tabular Data (preprint'23) [[Paper]](https://arxiv.org/abs/2302.14013)
 * Generative Table Pre-training Empowers Models for Tabular Prediction (EMNLP'23) [[Paper]](https://arxiv.org/pdf/2305.09696.pdf) [[Code]](https://github.com/ZhangTP1996/TapTap)
 * TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second (ICLR'23) [[Paper]](https://arxiv.org/pdf/2207.01848.pdf) [[Code]](https://github.com/automl/TabPFN)
 * STUNT: Few-shot Tabular Learning with Self-generated Tasks from Unlabeled Tables (ICLR'23) [[Paper]](https://arxiv.org/pdf/2303.00918.pdf) [[Code]](https://github.com/jaehyun513/STUNT)
@@ -47,6 +47,7 @@ If you have come across relevant resources or found some errors in this reposito
 * SwitchTab: Switched Autoencoders Are Effective Tabular Learners (AAAI'24) [[Paper]](https://arxiv.org/pdf/2401.02013.pdf)
 * Making Pre-trained Language Models Great on Tabular Prediction (ICLR'24) [[Paper]](https://openreview.net/pdf?id=anzIzGZuLi)
 * Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains (ICML'24) [[Paper]](https://arxiv.org/abs/2405.07414) [[Code]](https://github.com/kyungeun-lee/tabularbinning)
+* Large Scale Transfer Learning for Tabular Data via Language Modeling (preprint'24) [[Paper]](https://arxiv.org/abs/2406.12031) [[Code]](https://github.com/mlfoundations/rtfm)
 
 ### Contrastive Learning
 * SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (ICLR'22) [[Paper]](https://arxiv.org/pdf/2106.15147.pdf) [[Code]](https://github.com/clabrugere/pytorch-scarf)
