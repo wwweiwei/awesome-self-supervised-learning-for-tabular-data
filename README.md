@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning for Non-Sequential Tabular Data (SSL4NSTD)
 ![Version](https://img.shields.io/badge/Version-1.0-lightgrey.svg) 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.06-lightblue.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.10-lightblue.svg)
 ![Topic](https://img.shields.io/badge/Topic-SSL4NSTD-pink?logo=github)
 
 This repository contains the frontier research on **self-supervised learning** for tabular data which has been a popular topic recently.<br>
@@ -28,7 +28,6 @@ If you have come across relevant resources or found some errors in this reposito
 ### Predictive Learning
 * VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain (NeurIPS'20) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Paper.pdf) [[Supplementary]](https://proceedings.neurips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Supplemental.pdf) [[Code]](https://github.com/jsyoon0823/VIME)
 * TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data (ACL'20) [[Paper]](https://arxiv.org/abs/2005.08314)
-* 
 * TABBIE: Pretrained Representations of Tabular Data (NAACL'21) [[Paper]](https://arxiv.org/abs/2105.02584)) [[Code]](https://github.com/SFIG611/tabbie)
 * CORE: Self- and Semi-supervised Tabular Learning with COnditional REgularizations (NeurIPS'21) [[Paper]](https://sslneurips21.github.io/files/CameraReady/CORE_workshop.pdf)
 * TabTransformer: Tabular Data Modeling Using Contextual Embeddings [[Paper]](https://arxiv.org/abs/2012.06678)
@@ -72,6 +71,7 @@ If you have come across relevant resources or found some errors in this reposito
 | TabularBench | Classification, Regression            | 45        | [Grinsztajn et al., 2022](https://arxiv.org/abs/2207.08815)  |
 | TabZilla     | Classification                        | 36        | [McElfresh et al., 2023](https://arxiv.org/abs/2305.02997)  |
 | TabPretNet   | Unlabeled, Classification, Regression | 2000      | [Ye et al., 2023](https://arxiv.org/abs/2307.04308)  |
+| The Tremendous TabLib Trawl (T4) | Unlabeled | 3.1M | [Gardner et al., 2024](https://arxiv.org/abs/2406.12031v1) |
 
 ## Tutorials
 * Self-Supervised Learning: Self-Prediction and Contrastive Learning (NeurIPS'21) [[Website]](https://neurips.cc/virtual/2021/tutorial/21895)
