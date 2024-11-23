@@ -46,7 +46,7 @@ If you have come across relevant resources or found some errors in this reposito
 * SwitchTab: Switched Autoencoders Are Effective Tabular Learners (AAAI'24) [[Paper]](https://arxiv.org/pdf/2401.02013.pdf)
 * Making Pre-trained Language Models Great on Tabular Prediction (ICLR'24) [[Paper]](https://openreview.net/pdf?id=anzIzGZuLi)
 * Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains (ICML'24) [[Paper]](https://arxiv.org/abs/2405.07414) [[Code]](https://github.com/kyungeun-lee/tabularbinning)
-* Large Scale Transfer Learning for Tabular Data via Language Modeling (preprint'24) [[Paper]](https://arxiv.org/abs/2406.12031) [[Code]](https://github.com/mlfoundations/rtfm)
+* Large Scale Transfer Learning for Tabular Data via Language Modeling (NeurIPS'24) [[Paper]](https://arxiv.org/abs/2406.12031) [[Code]](https://github.com/mlfoundations/rtfm)
 
 ### Contrastive Learning
 * SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (ICLR'22) [[Paper]](https://arxiv.org/pdf/2106.15147.pdf) [[Code]](https://github.com/clabrugere/pytorch-scarf)
