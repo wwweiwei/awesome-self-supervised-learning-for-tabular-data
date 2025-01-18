@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning for Non-Sequential Tabular Data (SSL4NSTD)
 ![Version](https://img.shields.io/badge/Version-1.0-lightgrey.svg) 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.10-lightblue.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2025.01-lightblue.svg)
 ![Topic](https://img.shields.io/badge/Topic-SSL4NSTD-pink?logo=github)
 
 This repository contains the frontier research on **self-supervised learning** for tabular data which has been a popular topic recently.<br>
