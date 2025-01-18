@@ -7,7 +7,7 @@ This repository contains the frontier research on **self-supervised learning** f
 This list is maintained by [Wei-Wei Du](https://wwweiwei.github.io/) and [Wei-Yao Wang](https://github.com/wywyWang). (Actively keep updating)<br>
 If you have come across relevant resources or found some errors in this repository, feel free to open an issue or submit a PR.
 
-## Survey Paper
+## Our Survey Paper
 [A Survey on Self-Supervised Learning for Non-Sequential Tabular Data (ACML-24 Journal Track)](https://arxiv.org/abs/2402.01204)
 ### Citation
 ```bibtex
@@ -47,6 +47,7 @@ If you have come across relevant resources or found some errors in this reposito
 * Making Pre-trained Language Models Great on Tabular Prediction (ICLR'24) [[Paper]](https://openreview.net/pdf?id=anzIzGZuLi)
 * Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains (ICML'24) [[Paper]](https://arxiv.org/abs/2405.07414) [[Code]](https://github.com/kyungeun-lee/tabularbinning)
 * Large Scale Transfer Learning for Tabular Data via Language Modeling (NeurIPS'24) [[Paper]](https://arxiv.org/abs/2406.12031) [[Code]](https://github.com/mlfoundations/rtfm)
+* Accurate predictions on small data with a tabular foundation model (Nature-25) [[Paper]](https://www.nature.com/articles/s41586-024-08328-6)
 
 ### Contrastive Learning
 * SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (ICLR'22) [[Paper]](https://arxiv.org/pdf/2106.15147.pdf) [[Code]](https://github.com/clabrugere/pytorch-scarf)
