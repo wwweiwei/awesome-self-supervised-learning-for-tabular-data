@@ -91,3 +91,4 @@ If you have come across relevant resources or found some errors in this reposito
 ## Tools & Libraries
 * Pytorch Frame: A modular deep learning framework for building neural network models on heterogeneous tabular data [[Link]](https://github.com/pyg-team/pytorch-frame#implemented-deep-tabular-models)
 * PyTorch Tabular: A Framework for Deep Learning with Tabular Data [[Link]](https://github.com/manujosephv/pytorch_tabular)
+* Pytorch wide-deep: A flexible package for multimodal-deep-learning to combine tabular data with text and images using Wide and Deep models in Pytorch [[Link]](https://pytorch-widedeep.readthedocs.io/en/latest/index.html#the-deeptabular-component)
