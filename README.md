@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning for Non-Sequential Tabular Data (SSL4NSTD)
 ![Version](https://img.shields.io/badge/Version-1.0-lightgrey.svg) 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2025.01-lightblue.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2025.10-lightblue.svg)
 ![Topic](https://img.shields.io/badge/Topic-SSL4NSTD-pink?logo=github)
 
 This repository contains the frontier research on **self-supervised learning** for tabular data which has been a popular topic recently.<br>
@@ -48,6 +48,7 @@ If you have come across relevant resources or found some errors in this reposito
 * Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains (ICML'24) [[Paper]](https://arxiv.org/abs/2405.07414) [[Code]](https://github.com/kyungeun-lee/tabularbinning)
 * Large Scale Transfer Learning for Tabular Data via Language Modeling (NeurIPS'24) [[Paper]](https://arxiv.org/abs/2406.12031) [[Code]](https://github.com/mlfoundations/rtfm)
 * Accurate predictions on small data with a tabular foundation model (Nature-25) [[Paper]](https://www.nature.com/articles/s41586-024-08328-6)
+* T-JEPA: Augmentation-Free Self-Supervised Learning for Tabular Data (ICLR'25) [[Paper]](https://arxiv.org/abs/2410.05016) [[Code]](https://github.com/jose-melo/t-jepa)
 
 ### Contrastive Learning
 * SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (ICLR'22) [[Paper]](https://arxiv.org/pdf/2106.15147.pdf) [[Code]](https://github.com/clabrugere/pytorch-scarf)
@@ -78,7 +79,8 @@ If you have come across relevant resources or found some errors in this reposito
 * Self-Supervised Learning: Self-Prediction and Contrastive Learning (NeurIPS'21) [[Website]](https://neurips.cc/virtual/2021/tutorial/21895)
 
 ## Workshops
-* Table Representation Learning (NeurIPS) [[Website]](https://table-representation-learning.github.io/)
+* Table Representation Learning Workshop (ACL'25) [[Website]](https://table-representation-learning.github.io/ACL2025/)
+* Foundation Models for Structured Data Workshop (ICML'25) [[Website]](https://icml-structured-fm-workshop.github.io/)
 
 ## Related Survey
 * Deep Neural Networks and Tabular Data: A Survey [[Paper]](https://arxiv.org/abs/2110.01889)
