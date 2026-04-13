@@ -1,6 +1,6 @@
 # Awesome Self-Supervised Learning for Non-Sequential Tabular Data (SSL4NSTD)
 ![Version](https://img.shields.io/badge/Version-1.0-lightgrey.svg) 
-![LastUpdated](https://img.shields.io/badge/LastUpdated-2025.10-lightblue.svg)
+![LastUpdated](https://img.shields.io/badge/LastUpdated-2026.04-lightblue.svg)
 ![Topic](https://img.shields.io/badge/Topic-SSL4NSTD-pink?logo=github)
 
 This repository contains the frontier research on **self-supervised learning** for tabular data which has been a popular topic recently.<br>
@@ -47,14 +47,21 @@ If you have come across relevant resources or found some errors in this reposito
 * Making Pre-trained Language Models Great on Tabular Prediction (ICLR'24) [[Paper]](https://openreview.net/pdf?id=anzIzGZuLi)
 * Binning as a Pretext Task: Improving Self-Supervised Learning in Tabular Domains (ICML'24) [[Paper]](https://arxiv.org/abs/2405.07414) [[Code]](https://github.com/kyungeun-lee/tabularbinning)
 * Large Scale Transfer Learning for Tabular Data via Language Modeling (NeurIPS'24) [[Paper]](https://arxiv.org/abs/2406.12031) [[Code]](https://github.com/mlfoundations/rtfm)
-* Accurate predictions on small data with a tabular foundation model (Nature-25) [[Paper]](https://www.nature.com/articles/s41586-024-08328-6)
+* Accurate predictions on small data with a tabular foundation model (Nature'25) [[Paper]](https://www.nature.com/articles/s41586-024-08328-6)
 * T-JEPA: Augmentation-Free Self-Supervised Learning for Tabular Data (ICLR'25) [[Paper]](https://arxiv.org/abs/2410.05016) [[Code]](https://github.com/jose-melo/t-jepa)
+* MOTHERNET: Fast Training and Inference via Hyper-network Transformers (ICLR'25) [[Paper]](https://arxiv.org/pdf/2312.08598) [[Code]](https://github.com/microsoft/ticl)
+* TabICL: A Tabular Foundation Model for In-Context Learning on Large Data (ICML'25) [[Paper]](https://arxiv.org/pdf/2502.05564) [[Code]](https://github.com/soda-inria/tabicl)
+* TabDPT: Scaling Tabular Foundation Models on Real Data (NeurIPS'25) [[Paper]](https://arxiv.org/pdf/2410.18164) [[Code]](https://github.com/yandex-research/tabular-dl-tabr)
+* MITRA: Mixed Synthetic Priors for Enhancing Tabular Foundation Models (NeurIPS'25) [[Paper]](https://arxiv.org/pdf/2510.21204) [[Model]](https://huggingface.co/autogluon/mitra-classifier)
 
 ### Contrastive Learning
 * SCARF: Self-Supervised Contrastive Learning using Random Feature Corruption (ICLR'22) [[Paper]](https://arxiv.org/pdf/2106.15147.pdf) [[Code]](https://github.com/clabrugere/pytorch-scarf)
 * STab: Self-supervised Learning for Tabular Data (NeurIPS'22 Workshop on TRL) [[Paper]](https://openreview.net/pdf?id=EfR55bFcrcI)
 * TransTab: Learning Transferable Tabular Transformers Across Tables (NeurIPS'22) [[Paper]](https://arxiv.org/pdf/2205.09328.pdf)
-* PTaRL: Prototype-based Tabular Representation Learning via Space Calibration (ICLR'24) [[Paper]](https://openreview.net/pdf?id=G32oY4Vnm8)
+* PTaRL: Prototype-based Tabular Representation Learning via Space Calibration (ICLR'24) [[Paper]](https://arxiv.org/pdf/2407.05364)
+* Tabular Data Contrastive Learning via Class-Conditioned and Feature-Correlation Based Augmentation (preprint) [[Paper]](https://arxiv.org/pdf/2404.17489) [[Code]](https://github.com/layer6ai-labs/Tabular-Class-Conditioned-SSL)
+* TabDeco: A Comprehensive Contrastive Framework for Decoupled Representations in Tabular Data (NeurIPS'24 TRL Workshop) [[Paper]](https://arxiv.org/pdf/2411.11148)
+* ICE-T: Interactions-aware Cross-column Contrastive Embedding for Heterogeneous Tabular Datasets (NeurIPS'24 TRL Workshop) [[Paper]](https://openreview.net/pdf?id=ny1XtbcGNV)
 
 ### Hybrid Learning
 * SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning (NeurIPS'21) [[Paper]](https://arxiv.org/pdf/2110.04361.pdf) [[Supplementary]](https://openreview.net/attachment?id=vrhNQ7aYSdr&name=supplementary_material) [[Code]](https://github.com/AstraZeneca/SubTab)
@@ -89,6 +96,9 @@ If you have come across relevant resources or found some errors in this reposito
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects [[Paper]](https://arxiv.org/abs/2306.10125)
 * On the Opportunities and Challenges of Foundation Models for Geospatial Artificial Intelligence [[Paper]](https://arxiv.org/abs/2304.06798)
 * A Survey on Time-Series Pre-Trained Models [[Paper]](https://arxiv.org/abs/2305.10716)
+* Deep Learning within Tabular Data: Foundations, Challenges, Advances and Future Directions [[Paper]](https://arxiv.org/pdf/2501.03540)
+* Representation Learning for Tabular Data: A Comprehensive Survey [[Paper]](https://arxiv.org/pdf/2504.16109)
+
 
 ## Tools & Libraries
 * Pytorch Frame: A modular deep learning framework for building neural network models on heterogeneous tabular data [[Link]](https://github.com/pyg-team/pytorch-frame#implemented-deep-tabular-models)
